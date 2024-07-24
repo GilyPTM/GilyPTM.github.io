@@ -1,0 +1,6 @@
+@import "./general.css";
+
+img {
+  position: relative;
+  translate: 635px;
+}
