@@ -1,9 +1,11 @@
+@import "./general.css";
+
 .titlu1 {
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 25px;
   text-align: center;
   padding-top: 10px;
 }
